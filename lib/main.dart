@@ -12,9 +12,14 @@ class BraiviaApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
+      title: 'Braivia',
+      theme: ThemeData.dark().copyWith(
+        textTheme: ThemeData.dark().textTheme.apply(
+          fontFamily: 'SecularOne',
+        ),
+        primaryTextTheme: ThemeData.dark().textTheme.apply(
+          fontFamily: 'SecularOne',
+        ),
       ),
       home: const HomeScreen(),
     );
