@@ -14,11 +14,6 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> with DialogUtilsMixin {
-  @override
-  void dispose() {
-    Provider.of<HomeViewModel>(context, listen: true).dispose();
-    super.dispose();
-  }
 
   @override
   Widget build(BuildContext context) {
