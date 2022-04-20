@@ -1,0 +1,105 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The retail disc of Tony Hawk&#039;s Pro Skater 5 only comes with the tutorial.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "Japan was part of the Allied Powers during World War I.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The Battle of Trafalgar took place on October 23rd, 1805",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The band STRFKR was also briefly known as Pyramiddd.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "Nazi Germany surrendered on Harry Truman&#039;s birthday while he was president.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The weapon Clint Eastwood uses in &quot;Dirty Harry&quot; was a .44 Automag.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "In the &quot;To Love-Ru&quot; series, Peke is considered a female robot.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "In the &quot;Kagerou Daze&quot; series, Shintaro Kisaragi is prominently shown with the color red.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "In &quot;Minecraft&quot;, gold tools are faster than diamond tools.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The protagonist&#039;s names in &#039;Who&#039;s Afraid of Virginia Woolf&#039;, George and Martha, were derived from George Washington and his wife.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    }
+  ]
+}

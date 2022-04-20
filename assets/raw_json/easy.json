@@ -1,0 +1,105 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Video streaming website YouTube was purchased in it&#039;s entirety by Facebook for US$1.65 billion in stock.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Big the Cat is a playable character in &quot;Sonic Generations&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Bulls are attracted to the color red.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Adolf Hitler was a german soldier in World War I.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The names of Tom Nook&#039;s cousins in the Animal Crossing franchise are named &quot;Timmy&quot; and &quot;Jimmy&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "California is larger than Japan.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In Battlestar Galactica (2004), Cylons were created by man as cybernetic workers and soldiers.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "&quot;Minions&quot; was released on the June 10th, 2015.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In Rugby League, performing a &quot;40-20&quot; is punished by a free kick for the opposing team.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In the &quot;S.T.A.L.K.E.R.&quot; series, the Freedom faction wishes to destroy the supernatural area known as  &quot;the Zone&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    }
+  ]
+}

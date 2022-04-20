@@ -1,0 +1,105 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "A person can get sunburned on a cloudy day.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Sargon II, a king of the Neo-Assyrian Empire, was a direct descendant of Sargon of Akkad.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "&quot;Kamea,&quot; the Gilbertese Islander word for dog, is derived from the English phrase &quot;Come here!&quot;",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The French word for &quot;glass&quot; is &quot;glace&quot;.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Politics",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The State of Queensland, Australia voted NO to a referendum for daylight savings in 1992.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Klingons once had a period of Democracy in their history, they referred to it as the &quot;Dark Times&quot;.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Wilt Chamberlain scored his infamous 100-point-game against the New York Knicks in 1962.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In &quot;Star Trek: The Next Generation&quot;, Data is the only android in existence.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "An episode of &quot;The Simpsons&quot; is dedicated to Moe Szyslak&#039;s bar rag.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Popcorn was invented in 1871 by Frederick W. Rueckheim in the USA where he sold the snack on the streets of Chicago.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    }
+  ]
+}
