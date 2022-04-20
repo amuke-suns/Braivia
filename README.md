@@ -1,4 +1,5 @@
 # Braivia: A True/False Trivia app
+![App icon](docs/app_icon.png)
 
 The questions are obtained from [Open Trivia Database API](https://opentdb.com).
 
